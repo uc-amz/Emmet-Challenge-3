@@ -1,0 +1,17 @@
+body{
+    bg+;
+
+    ac:c;
+    align-content: center;
+
+    fxd:c;
+    flex-direction: column;
+
+    ovx;
+    overflow-x: hidden;
+
+    trf:t;
+    transform: translate(x, y);
+
+    
+}
